@@ -1,0 +1,21 @@
+﻿  lub2.cpp
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(17,9): error C2440: инициализация: невозможно преобразовать "const char [2]" в "char"
+      C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(17,9):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(18,9): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(18,18): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(18,18):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(19,9): error C2440: инициализация: невозможно преобразовать "const char [29]" в "char"
+      C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(19,9):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(20,9): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(20,18): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(20,18):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(21,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\lub2.cpp(21,9): warning C4313: printf: конфликт "%s" в строке формата с аргументом 1 типа "int"
