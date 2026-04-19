@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\pgu\programmirovanie\lub2\x64\Debug\lub2.exe
+D:\pgu\lub2\x64\Debug\lub2.exe
+E:\pgu\lub2\x64\Debug\lub2.exe
