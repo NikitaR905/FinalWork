@@ -2,3 +2,4 @@ C:\Users\user\Desktop\pgu\programmirovanie\lub2\x64\Debug\lub2.exe
 D:\pgu\lub2\x64\Debug\lub2.exe
 E:\pgu\lub2\x64\Debug\lub2.exe
 C:\IT_in_PA\25vvv1\LR9\x64\Debug\lub2.exe
+C:\Users\egorc\OneDrive\Рабочий стол\LAB9\FinalWork\x64\Debug\lub2.exe
